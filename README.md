@@ -9,7 +9,6 @@ The project aims to develop a Machine Learning-based Sentiment Analysis model th
 1.Accept the name of a college and review as input from users. Classify the sentiment of these reviews as positive, negative or neutral and give as output.
 
 2.Accept the name of a college as input from users and give the college status based on reviews as positive, negative or neutral.
-
 3. Continuous learning of model as per new reviews are inserted.
 
 Technologies used
